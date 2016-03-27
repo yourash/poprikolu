@@ -1,0 +1,2 @@
+# poprikolu
+script for flood
